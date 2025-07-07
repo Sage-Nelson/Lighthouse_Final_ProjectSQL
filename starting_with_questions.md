@@ -22,7 +22,7 @@ ORDER BY fullvisitorid DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_1](./image/cities_and_countries_with_the_highest_level_of_transaction_revenues_on_the_site.png)
+![answer_1](./image/cities_and_countries_with_highest_level_of_transaction_revenues_on_site.png.png)
 
 ## Question 2
 > What is the average number of products ordered from visitors in each city and country?
@@ -84,8 +84,9 @@ ORDER BY
 
 ### :heavy_check_mark: Answer
 
-![answer_3](./image/pattern_in_the_types_(product categories)_of_products_ordered_from_visitors_in_each_city_and_country.png)
+### :heavy_check_mark: Answer
 
+![answer_2](./image/pattern_in_product_categories_of_products_ordered_from_visitors_in_each_city_and_country.png)
 
 ## Question 4
 > What is the top-selling product from each city/country? Can we find any pattern worthy of noting in the products sold?

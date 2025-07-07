@@ -22,7 +22,7 @@ ORDER BY fullvisitorid DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_1](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\cities_and_countries_with_the_highest_level_of_transaction_revenues_on_the_site.png)
+![answer_1](./image/cities_and_countries_with_the_highest_level_of_transaction_revenues_on_the_site.png)
 
 ## Question 2
 > What is the average number of products ordered from visitors in each city and country?
@@ -53,7 +53,7 @@ GROUP BY city, country
 
 ### :heavy_check_mark: Answer
 
-![answer_2](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\average_number_of_products_ordered_from_visitors_in_each_city_and_country.png)
+![answer_2](./image/average_number_of_products_ordered_from_visitors_in_each_city_and_country.png)
 
 
 ## Question 3
@@ -84,7 +84,7 @@ ORDER BY
 
 ### :heavy_check_mark: Answer
 
-![answer_3](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\pattern_in_the_types_(product categories)_of_products_ordered_from_visitors_in_each_city_and_country.png)
+![answer_3](./image/pattern_in_the_types_(product categories)_of_products_ordered_from_visitors_in_each_city_and_country.png)
 
 
 ## Question 4
@@ -110,7 +110,7 @@ SELECT
 
 ### :heavy_check_mark: Answer
 
-![answer_4](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\top_selling_product_from_each_city_country.png)
+![answer_4](./image/top_selling_product_from_each_city_country.png)
 
 
 ## Question 5
@@ -134,6 +134,6 @@ ORDER BY revenue DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_5](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\impact_of_revenue_generated_from_each_city_country.png)
+![answer_5](./image/impact_of_revenue_generated_from_each_city_country.png)
 
 

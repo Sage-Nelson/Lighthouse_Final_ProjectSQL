@@ -32,7 +32,7 @@ ORDER BY city DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_1](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\product_name_and_their_associated_channel_grouping.png)
+![answer_1](./image/product_name_and_their_associated_channel_grouping.png)
 
 
 ## Question 2
@@ -55,7 +55,7 @@ ORDER BY city DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_2](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\the_month_and_year_searches_were_made_for_products_in_the_cities_of_Switzerland.png)
+![answer_2](./image/the_month_and_year_searches_were_made_for_products_in_the_cities_of_Switzerland.png)
 
 
 ## Question 3
@@ -78,7 +78,7 @@ ORDER BY avg_sales DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_3](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\the_average_sales_made_from_visitor's_preferred_session_type_and_for_what_product.png)
+![answer_3](./image/the_average_sales_made_from_visitor's_preferred_session_type_and_for_what_product.png)
 
 
 ## Question 4
@@ -107,7 +107,7 @@ ORDER BY city DESC
 
 ### :heavy_check_mark: Answer
 
-![answer_4](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\the_perception_of_visitors_on_product_based_on_their_price_if_the_threshold_sentiment_score_is_5.png)
+![answer_4](./image/the_perception_of_visitors_on_product_based_on_their_price_if_the_threshold_sentiment_score_is_5.png)
 
 
 ## Question 5
@@ -132,5 +132,5 @@ ORDER BY avg_leadtime ASC
 
 ### :heavy_check_mark: Answer
 
-![answer_5](C:\Users\Nelson\SQL_project\Final-Project-SQL\image\the_average_restocking_lead_time_that_yielded_the_highest_revenue.png)
+![answer_5](./image/the_average_restocking_lead_time_that_yielded_the_highest_revenue.png)
 

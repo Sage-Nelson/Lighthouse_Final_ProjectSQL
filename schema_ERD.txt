@@ -1,0 +1,10 @@
+## Part 6: Generate the ERDLoading Your Final Table Into PostgreSQL Database
+
+Inside pgAdmin, you can generate the ERD for the database. 
+
+![](https://i.imgur.com/KxVRJD3.png)
+
+Download the image and save it as **schema.png**. Add this file to your repo for submission.
+
+
+![schema_ERD](C:\Users\Nelson\Lighthouse_Final_ProjectSQL\image\schema.png)
